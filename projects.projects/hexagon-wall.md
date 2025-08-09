@@ -1,0 +1,1 @@
+title: Hexagon Feature Wall description: Bathroom renovation in Solihull with a stunning hexagon tile feature wall. image: hexagon-wall.webp imageLarge: hexagon-wall-large.webp beforeImage: hexagon-wall-before.webp afterImage: hexagon-wall-after.webp location: Solihull (B90) category: bathroom video: hexagon-wall-video.webm
